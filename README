@@ -1,0 +1,7 @@
+Android Contacts List Manager
+
+Android application intended to make use of the dynamics of Android's content providers and list views.
+In particular, an intensive use of the Contacts Provider is made, a powerful and flexible Android component that manages the device's central repository of data about people from a wide range of data sources.
+This application tries to gather as much data as possible for each of the user's contacts from the contacts provider, allowing the user to display and check their basic details.
+It allows the user to filter the results she gets according to the place where the contacts are physically stored, and perform an intelligent selection of them. The contacts displayed and selected can be exported to a backup file and automatically uploaded to the user's Google Drive space.
+

@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Contacts</string>
+    <string name="activity_contacts_list">Contacts List</string>
+    <string name="no_contacts">No Contacts Found</string>
+    <string name="phone">Phone: </string>
+    <string name="email">e-mail: </string>
+    <string name="activity_contact_details">Contact details</string>
+    <string name="has_phone">Only display phone contacts</string>
+    <string name="all_contacts">Select all contacts</string>
+    <string name="export_contacts">Export contacts!</string>
+    <string name="intent_chooser">Export contacts list</string>
+
+</resources>

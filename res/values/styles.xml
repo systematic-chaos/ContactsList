@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="AppTheme" parent="@android:style/Theme" />
+
+    <style name="ContactListView">
+        <!-- <item name="android:verticalScrollbarPosition">right</item> -->
+        <!-- <item name="android:fastScrollAlwaysVisible">true</item> -->
+        <item name="android:scrollbarStyle">outsideInset</item>
+    </style>
+
+</resources>
